@@ -1,0 +1,22 @@
+LAYOUT MANAGER IN JAVA
+
+Tre tipi di layout:
+-Absolute layout
+-Border layout
+-Flow layout
+
+
+BORDER LAYOUT
+L'area centrale assume una dimensione automatica che riempie tutto
+
+Se organizziamo la nostra interfaccia possiamo sfruttare il border layout.
+Solo un componente puo' appartenere ad una delle regioni del border layout, ma
+posso usare dei container per inscatolare i componenti.
+
+
+
+
+FLOW LAYOUT
+I componenti vengono automaticamente organizzati per righe e colonne.
+Iniziando dal bordo di sinistra vengono allineati sulla prima riga finche' ci stanno,
+poi vanno a capo.
